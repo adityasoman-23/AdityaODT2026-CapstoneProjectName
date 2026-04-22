@@ -1,10 +1,10 @@
-**Project Title**
+**SPIDER-BOT**
 
-[Enter your project name here]
+
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+This project focuses on designing and building a quadruped (spider-like) walking robot using servo motors and a microcontroller. The system uses an ESP32 and a PCA9685 driver to control coordinated leg movements, allowing the robot to mimic basic walking patterns. The project explores how electronic signals, mechanical structure, and programming come together to create physical motion.
 
 
 **📂 Repository Structure**
@@ -27,5 +27,6 @@ Project Documents → Design thinking, planning, testing
 Media → Weekly progress and final output
 
 
-**👥 Team Members**
-[Name]
+**👥 Team Members
+ADITYA SOMAN , DHRUV YADAV
+
